@@ -1,0 +1,1 @@
+local RS = game:GetService("ReplicatedStorage") local activateSkill = RS:WaitForChild("RemoteEvents"
